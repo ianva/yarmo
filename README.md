@@ -18,11 +18,7 @@ $ yarn global add yarmo
 ## Usage
 
 
-```
 ## License
 
-MIT © [ianva]()
+MIT 
 
-
-[npm-image]: https://badge.fury.io/js/yarmo.svg
-[npm-url]: https://npmjs.org/package/yarmo
